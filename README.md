@@ -1,4 +1,4 @@
-# Notes-Sharing-Web-Application-using-Django-Framework---Jawaharlalnehru_M-3033-JCTCET-
+# Notes-Sharing-Web-Application-using-Django-Framework---priyadharshini.A-5028-PCET-
 Notes Sharing Web Application using Django Framework 
 Installation 📦
 To install Django Music Player, follow these steps:
